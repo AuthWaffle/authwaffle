@@ -1,0 +1,26 @@
+{
+  "name": "authwaffle",
+  "version": "1.0.0",
+  "description": "No-frills, purpose built, open source, multi-platform, multi-factor authentication application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/AuthWaffle/authwaffle.git"
+  },
+  "keywords": [
+    "totp",
+    "hotp",
+    "mfa",
+    "2fa",
+    "2factor"
+  ],
+  "author": "Open Working Group",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AuthWaffle/authwaffle/issues"
+  },
+  "homepage": "https://github.com/AuthWaffle/authwaffle#readme"
+}
