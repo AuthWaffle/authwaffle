@@ -1,5 +1,5 @@
 {
-  "name": "Auth#Waffle",
+  "name": "authwaffle",
   "version": "1.0.0",
   "description": "No-frills, purpose built, open source, multi-platform, multi-factor authentication application.",
   "main": "index.js",
