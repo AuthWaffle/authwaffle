@@ -1,5 +1,5 @@
 {
-  "name": "authwaffle",
+  "name": "Auth#Waffle",
   "version": "1.0.0",
   "description": "No-frills, purpose built, open source, multi-platform, multi-factor authentication application.",
   "main": "index.js",
@@ -22,5 +22,9 @@
   "bugs": {
     "url": "https://github.com/AuthWaffle/authwaffle/issues"
   },
-  "homepage": "https://github.com/AuthWaffle/authwaffle#readme"
+  "homepage": "https://authwaffle.app",
+  "devDependencies": {
+    "nx": "20.0.0"
+  },
+  "nx": {}
 }
