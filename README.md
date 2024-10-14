@@ -1,8 +1,9 @@
-# authwaffle
+# Auth#Waffle
 
 # Development Notes
 
-Frameworks:
+1. Clone core repo
+2. Frameworks:
 
 - Angular 18 - TypeScript MVC framework
 - Karma X - Testing framework
